@@ -1,4 +1,2 @@
-# TaskShare
-learning c_sharpie
-
-permanent sharker
+# TaskShare 
+learning c_sharp 
